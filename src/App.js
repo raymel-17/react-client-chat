@@ -3,7 +3,7 @@ import io from "socket.io-client";
 import React  from 'react';
 import { useState, useEffect } from 'react';
 
-const socket = io('https://chat-react-server.onrender.com')
+const socket = io('https://api.render.com/deploy/srv-cf0vta9a6gdm8jqdrudg?key=k7yA1Z41NDM')
 
 
   
